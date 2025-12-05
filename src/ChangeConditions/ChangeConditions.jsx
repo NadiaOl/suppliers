@@ -1,3 +1,7 @@
+// =============================================================================
+// Файл: ChangeConditions\ChangeConditions.jsx
+// Описание: Изменение условий по производителю.
+// =============================================================================
 import React, { useState } from 'react'
 import contracts from "../data.json";
 import { Form, Button } from '../ChangeProduct/ChangeProduct.styled';

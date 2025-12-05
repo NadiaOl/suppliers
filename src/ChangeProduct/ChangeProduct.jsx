@@ -1,3 +1,8 @@
+// =============================================================================
+// Файл: ChangeProduct\ChangeProduct.jsx
+// Описание: Изменение продукта.
+// =============================================================================
+
 import React from 'react'
 import contracts from "../data.json";
 import { Form, Button } from './ChangeProduct.styled';

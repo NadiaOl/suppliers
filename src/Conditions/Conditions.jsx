@@ -1,3 +1,7 @@
+// =============================================================================
+// Файл: Conditions\Conditions.jsx
+// Описание: Страница с рендингом поставщиков, продуктов и условий.
+// =============================================================================
 import React, { useState } from 'react';
 import { Button, Card, Container, Td, Th, Th1, Th2, Div } from './Conditions.styled';
 import contracts from "../data.json";
