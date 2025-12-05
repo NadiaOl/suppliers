@@ -1,0 +1,279 @@
+[
+  {
+    "supplier": "BR Pharm",
+    "buyer": "Apriori",
+    "currancy": "USD",
+    "products": [
+      {
+        "name": "Vitaran i",
+        "priceTotal": 30,
+        "priceBill": 16.2,
+        "foc": 1.05,
+        "obligations": 12000,
+        "odered": 13200
+      },
+      {
+        "name": "Vitaran i II",
+        "priceTotal": 50,
+        "priceBill": 30.4,
+        "foc": 1.05,
+        "obligations": 15000,
+        "odered": 15000
+      },      
+      {
+        "name": "Vitaran Tox Eye",
+        "priceTotal": 25,
+        "priceBill": 10.3,
+        "foc": 1.05,
+        "obligations": 17000,
+        "odered": 19000
+      },
+      {
+        "name": "Vitaran Whittening",
+        "priceTotal": 25,
+        "priceBill": 10.3,
+        "foc": 1.05,
+        "obligations": 13000,
+        "odered": 14000
+      },
+      {
+        "name": "Petaran",
+        "priceTotal": 40,
+        "priceBill": 18,
+        "foc": 1.1,
+        "obligations": 10000,
+        "odered": 8000
+      },
+      {
+        "name": "IUSE SkinBooster",
+        "priceTotal": 17,
+        "priceBill": 8,
+        "foc": 1.05,
+        "obligations": 15000,
+        "odered": 10000
+      }
+    ]
+  },
+  {
+    "supplier": "BR Pharm cosmetic",
+    "buyer": "Company Emet",
+    "currancy": "USD",
+    "products": [
+        {
+        "name": "Pure Centella",
+        "priceTotal": 7,
+        "priceBill": 2.13,
+        "foc": 1.2,
+        "obligations": 1300,
+        "odered": 1100
+      },
+      {
+        "name": "Dual Serum",
+        "priceTotal": 18,
+        "priceBill": 6.8,
+        "obligations": 2060,
+        "odered": 1740
+      },
+      {
+        "name": "Vitamin A",
+        "priceTotal": 21,
+        "priceBill": 4.1,
+        "foc": 1.2,
+        "obligations": 50,
+        "odered": 30
+      },
+      {
+        "name": "Vitamin B",
+        "priceTotal": 21,
+        "priceBill": 4.1,
+        "foc": 1.2,
+        "obligations": 240,
+        "odered": 80
+      },
+      {
+        "name": "Vitamin C",
+        "priceTotal": 30,
+        "priceBill": 5.2,
+        "foc": 1.2,
+        "obligations": 85,
+        "odered": 0
+      },
+      {
+        "name": "Vitamin D",
+        "priceTotal": 21,
+        "priceBill": 4.1,
+        "foc": 1.2,
+        "obligations": 90,
+        "odered": 60
+      },
+      {
+        "name": "Vitamin E",
+        "priceTotal": 21,
+        "priceBill": 4.1,
+        "foc": 1.2,
+        "obligations": 660,
+        "odered": 180
+      }
+    ]
+  },
+  {
+    "supplier": "Sinclair",
+    "buyer": "EMET Ukraine",
+    "currancy": "EUR",
+    "products": [
+      {
+        "name": "Ellanse S",
+        "priceTotal": 130,
+        "priceBill": 108.34,
+        "foc": 1.2,
+        "obligations": 3200,
+        "odered": 2200
+      },
+      {
+        "name": "Ellanse M",
+        "priceTotal": 155,
+        "priceBill": 129.17,
+        "foc": 1.2,
+        "obligations": 1000,
+        "odered": 90
+      },
+      {
+        "name": "Perfectha Deep Lido",
+        "priceTotal": 36,
+        "priceBill": 30,
+        "foc": 1.2,
+        "odered": 0
+      },
+      {
+        "name": "Perfectha Derm Lido",
+        "priceTotal": 34,
+        "priceBill": 28.33,
+        "foc": 1.2,
+        "odered": 0
+      },
+      {
+        "name": "Perfectha Finelines Lido",
+        "priceTotal": 34,
+        "priceBill": 28.33,
+        "foc": 1.2,
+        "odered": 0
+      },
+      {
+        "name": "Perfectha SubSkin Lido",
+        "priceTotal": 100,
+        "priceBill": 83.33,
+        "foc": 1.2,
+        "odered": 0
+      }
+    ]
+  },
+  {
+    "supplier": "Medytox",
+    "buyer": "Aviva Farm",
+    "currancy": "USD",
+    "products": [
+      {
+        "name": "Neuramis Light Lidocaine",
+        "priceTotal": 14.5,
+        "priceBill": 8.9,
+        "obligations": 4000,
+        "odered": 3500
+      },
+      {
+        "name": "Neuramis Lidocaine",
+        "priceTotal": 14.5,
+        "priceBill": 8.8,
+        "obligations": 3250,
+        "odered": 3000
+      },
+      {
+        "name": "Neuramis Deep",
+        "priceTotal": 14.5,
+        "priceBill": 9.5,
+        "obligations": 5250,
+        "odered": 750
+      },
+      {
+        "name": "Neuramis Deep Lidocaine",
+        "priceTotal": 14.5,
+        "priceBill": 9,
+        "obligations": 11500,
+        "odered": 8500
+      },
+      {
+        "name": "Neuramis Volume Lidocaine",
+        "priceTotal": 14.5,
+        "priceBill": 8,
+        "obligations": 4000,
+        "odered": 1500
+      }
+    ]
+  },
+  {
+    "supplier": "Naveh",
+    "buyer": "Esse Ukraine",
+    "currancy": "USD",
+    "products": [
+      {
+        "name": "Magnox",
+        "priceTotal": 6,
+        "priceBill": 4.5,
+        "diana": 0.5,
+        "obligations": 6600,
+        "odered": 6756
+      },
+      {
+        "name": "Saffrox",
+        "priceTotal": 7.5,
+        "priceBill": 2.5,
+        "diana": 0.5,
+        "obligations": 2200,
+        "odered": 0
+      }
+    ]
+  },
+  {
+    "supplier": "Regenborgen",
+    "buyer": "EMET Ukraine",
+    "currancy": "USD",
+    "products": [
+      {
+        "name": "Exoxe",
+        "priceTotal": 28,
+        "priceBill": 10.2,
+        "foc": 1.15,
+        "obligations": 12000,
+        "odered": 6000
+      }
+    ]
+  },
+  {
+    "supplier": "Skin Tech",
+    "buyer": "Emet Ukraine",
+    "currancy": "EUR",
+    "products": [
+      {
+        "name": "IUSE Hair",
+        "priceTotal": 52,
+        "priceBill": 52,
+        "obligations": 1500,
+        "odered": 0
+      }
+    ]
+  },
+  {
+    "supplier": "Swedish Nutra",
+    "buyer": "Esse Ukraine",
+    "currancy": "EUR",
+    "products": [
+      {
+        "name": "IUSE Marine Collagen",
+        "priceTotal": 15.95,
+        "priceBill": 15.95,
+        "obligations": 1200,
+        "odered": 2400
+      }
+    ]
+  }
+]
+
