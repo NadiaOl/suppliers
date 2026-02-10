@@ -2,7 +2,7 @@ import React from 'react'
 import { Container, Buttons, Button } from './Login.styled'
 
 
-export const Login = () => {
+export const Login = () =>{
     return (
         <Container> 
             <form>

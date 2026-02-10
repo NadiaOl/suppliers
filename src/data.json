@@ -1,10 +1,12 @@
 [
   {
+    "id": 1,
     "supplier": "BR Pharm",
     "buyer": "Apriori",
     "currancy": "USD",
     "products": [
       {
+        "id": 11,
         "name": "Vitaran i",
         "priceTotal": 30,
         "priceBill": 16.2,
@@ -13,14 +15,16 @@
         "odered": 13200
       },
       {
+        "id": 12,
         "name": "Vitaran i II",
         "priceTotal": 50,
         "priceBill": 30.4,
         "foc": 1.05,
         "obligations": 15000,
         "odered": 15000
-      },      
+      },
       {
+        "id": 13,
         "name": "Vitaran Tox Eye",
         "priceTotal": 25,
         "priceBill": 10.3,
@@ -29,6 +33,7 @@
         "odered": 19000
       },
       {
+        "id": 14,
         "name": "Vitaran Whittening",
         "priceTotal": 25,
         "priceBill": 10.3,
@@ -37,6 +42,7 @@
         "odered": 14000
       },
       {
+        "id": 15,
         "name": "Petaran",
         "priceTotal": 40,
         "priceBill": 18,
@@ -45,6 +51,7 @@
         "odered": 8000
       },
       {
+        "id": 16,
         "name": "IUSE SkinBooster",
         "priceTotal": 17,
         "priceBill": 8,
@@ -55,11 +62,13 @@
     ]
   },
   {
+    "id": 2,
     "supplier": "BR Pharm cosmetic",
     "buyer": "Company Emet",
     "currancy": "USD",
     "products": [
-        {
+      {
+        "id": 21,
         "name": "Pure Centella",
         "priceTotal": 7,
         "priceBill": 2.13,
@@ -68,6 +77,7 @@
         "odered": 1100
       },
       {
+        "id": 22,
         "name": "Dual Serum",
         "priceTotal": 18,
         "priceBill": 6.8,
@@ -75,53 +85,31 @@
         "odered": 1740
       },
       {
-        "name": "Vitamin A",
-        "priceTotal": 21,
-        "priceBill": 4.1,
-        "foc": 1.2,
-        "obligations": 50,
-        "odered": 30
-      },
-      {
-        "name": "Vitamin B",
-        "priceTotal": 21,
-        "priceBill": 4.1,
-        "foc": 1.2,
-        "obligations": 240,
-        "odered": 80
-      },
-      {
-        "name": "Vitamin C",
-        "priceTotal": 30,
-        "priceBill": 5.2,
-        "foc": 1.2,
-        "obligations": 85,
+        "id": 23,
+        "name": "Azulen Serum",
+        "priceTotal": 23,
+        "priceBill": 6.8,
+        "obligations": 500,
         "odered": 0
       },
       {
-        "name": "Vitamin D",
-        "priceTotal": 21,
-        "priceBill": 4.1,
-        "foc": 1.2,
-        "obligations": 90,
-        "odered": 60
-      },
-      {
-        "name": "Vitamin E",
-        "priceTotal": 21,
-        "priceBill": 4.1,
-        "foc": 1.2,
-        "obligations": 660,
-        "odered": 180
+        "id": 24,
+        "name": "NMN Cream",
+        "priceTotal": 24,
+        "priceBill": 6.8,
+        "obligations": 500,
+        "odered": 0
       }
     ]
   },
   {
+    "id": 3,
     "supplier": "Sinclair",
     "buyer": "EMET Ukraine",
     "currancy": "EUR",
     "products": [
       {
+        "id": 31,
         "name": "Ellanse S",
         "priceTotal": 130,
         "priceBill": 108.34,
@@ -130,49 +118,24 @@
         "odered": 2200
       },
       {
+        "id": 32,
         "name": "Ellanse M",
         "priceTotal": 155,
         "priceBill": 129.17,
         "foc": 1.2,
         "obligations": 1000,
         "odered": 90
-      },
-      {
-        "name": "Perfectha Deep Lido",
-        "priceTotal": 36,
-        "priceBill": 30,
-        "foc": 1.2,
-        "odered": 0
-      },
-      {
-        "name": "Perfectha Derm Lido",
-        "priceTotal": 34,
-        "priceBill": 28.33,
-        "foc": 1.2,
-        "odered": 0
-      },
-      {
-        "name": "Perfectha Finelines Lido",
-        "priceTotal": 34,
-        "priceBill": 28.33,
-        "foc": 1.2,
-        "odered": 0
-      },
-      {
-        "name": "Perfectha SubSkin Lido",
-        "priceTotal": 100,
-        "priceBill": 83.33,
-        "foc": 1.2,
-        "odered": 0
       }
     ]
   },
   {
+    "id": 4,
     "supplier": "Medytox",
     "buyer": "Aviva Farm",
     "currancy": "USD",
     "products": [
       {
+        "id": 41,
         "name": "Neuramis Light Lidocaine",
         "priceTotal": 14.5,
         "priceBill": 8.9,
@@ -180,6 +143,7 @@
         "odered": 3500
       },
       {
+        "id": 42,
         "name": "Neuramis Lidocaine",
         "priceTotal": 14.5,
         "priceBill": 8.8,
@@ -187,6 +151,7 @@
         "odered": 3000
       },
       {
+        "id": 43,
         "name": "Neuramis Deep",
         "priceTotal": 14.5,
         "priceBill": 9.5,
@@ -194,6 +159,7 @@
         "odered": 750
       },
       {
+        "id": 44,
         "name": "Neuramis Deep Lidocaine",
         "priceTotal": 14.5,
         "priceBill": 9,
@@ -201,6 +167,7 @@
         "odered": 8500
       },
       {
+        "id": 45,
         "name": "Neuramis Volume Lidocaine",
         "priceTotal": 14.5,
         "priceBill": 8,
@@ -210,11 +177,13 @@
     ]
   },
   {
+    "id": 5,
     "supplier": "Naveh",
     "buyer": "Esse Ukraine",
     "currancy": "USD",
     "products": [
       {
+        "id": 51,
         "name": "Magnox",
         "priceTotal": 6,
         "priceBill": 4.5,
@@ -223,6 +192,7 @@
         "odered": 6756
       },
       {
+        "id": 52,
         "name": "Saffrox",
         "priceTotal": 7.5,
         "priceBill": 2.5,
@@ -233,11 +203,13 @@
     ]
   },
   {
+    "id": 6,
     "supplier": "Regenborgen",
     "buyer": "EMET Ukraine",
     "currancy": "USD",
     "products": [
       {
+        "id": 61,
         "name": "Exoxe",
         "priceTotal": 28,
         "priceBill": 10.2,
@@ -248,25 +220,13 @@
     ]
   },
   {
-    "supplier": "Skin Tech",
-    "buyer": "Emet Ukraine",
-    "currancy": "EUR",
-    "products": [
-      {
-        "name": "IUSE Hair",
-        "priceTotal": 52,
-        "priceBill": 52,
-        "obligations": 1500,
-        "odered": 0
-      }
-    ]
-  },
-  {
+    "id": 7,
     "supplier": "Swedish Nutra",
     "buyer": "Esse Ukraine",
     "currancy": "EUR",
     "products": [
       {
+        "id": 71,
         "name": "IUSE Marine Collagen",
         "priceTotal": 15.95,
         "priceBill": 15.95,
@@ -276,4 +236,3 @@
     ]
   }
 ]
-
